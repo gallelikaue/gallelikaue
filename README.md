@@ -1,16 +1,13 @@
-# Hi 👋, I'm Kauê Galleli
+# 👨🏻‍💻 Kauê Galleli
 
-🚀 **AI Engineer | JS/TS | Paid Media Strategist**  
+🚀 **AI Engineer | FullStack Developer | Paid Media Strategist**  
 🇧🇷 Araçatuba - São Paulo, Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Me chamo Kauê Galleli, tenho 21 anos e moro em Araçatuba, São Paulo. Sou apaixonado por construir sistemas e arquiteturas que resolvem dores, problemas e geram lucro real. Com um background sólido em Engenharia de Software e uma trajetória de mais de R$25M gerados em anúncios, meu foco é unir Inteligência Artifical com escala de negócios. Atualmente, dedico meu tempo ao desenvolvimento de soluções SaaS e automações de alta performance.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Redes Sociais
 
 <p align="left">
   <a href="https://github.com/gallelikaue">
@@ -23,21 +20,21 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço:
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payment Systems & Subscription Logic
--   🤖 AI Engineering & Autonomous Agents
+-   🏗️ SaaS & Sistemas de Alta Escala
+-   ⚡ Otimização de Performance
+-   🧩 Arquitetura Limpa & Design de Sistemas
+-   🔐 APIs Seguras & Autenticação
+-   💳 Sistemas de Pagamento & Lógica de Assinatura
+-   🤖 Engenharia de IA & Agentes Autônomos
 -   📊 Business Intelligence & ROI Dashboards
--   🎓 Teaching & mentoring developers
--   📈 Growth Tech & Ads (+$5M generated)
+-   🎓 Mentoria
+-   📈 Tráfego Pago (+R$25M gerados)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Linguagens e Tecnologias
 
 ### Frontend
 
@@ -65,14 +62,3 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![TikTok Ads](https://img.shields.io/badge/TikTok_Ads-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 
----
-
-## 🚀 Philosophy
-
-> _"Technology is the lever, but ROI is the metric. I don't just write code; I engineer automated systems that transform data into scale and algorithms into profit."
-
----
-
-⭐ If you find value in my code or automated systems, feel free to star a repository.
-
-🤝 I’m always open to high-impact collaborations, AI partnerships, and engineering solutions that scale.
