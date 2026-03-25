@@ -70,8 +70,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauegalleli&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauegalleli&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gallelikaue&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gallelikaue&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -83,4 +83,5 @@ I also create content and share knowledge on **software development, SaaS, and t
 ---
 
 ⭐ If you find value in my code or automated systems, feel free to star a repository.
+
 🤝 I’m always open to high-impact collaborations, AI partnerships, and engineering solutions that scale.
