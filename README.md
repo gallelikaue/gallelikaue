@@ -3,7 +3,7 @@
 🚀 **AI Engineer | FullStack Developer | Paid Media Strategist**  
 🇧🇷 Araçatuba - São Paulo, Brazil
 
-Me chamo Kauê Galleli, tenho 21 anos e moro em Araçatuba, São Paulo. Sou apaixonado por construir sistemas e arquiteturas que resolvem dores, problemas e geram lucro real. Com um background sólido em Engenharia de Software e uma trajetória de mais de R$25M gerados em anúncios, meu foco é unir Inteligência Artifical com escala de negócios. Atualmente, dedico meu tempo ao desenvolvimento de soluções SaaS e automações de alta performance.
+Me chamo Kauê Galleli, tenho 21 anos e moro em Araçatuba, São Paulo. Sou apaixonado por construir sistemas e arquiteturas que resolvem dores, problemas e geram lucro real. Com um background sólido em Engenharia de Software e uma trajetória de mais de R$35M gerados em anúncios, meu foco é unir Inteligência Artifical com escala de negócios. Atualmente, dedico meu tempo ao desenvolvimento de soluções SaaS e automações de alta performance.
 
 ---
 
@@ -13,8 +13,8 @@ Me chamo Kauê Galleli, tenho 21 anos e moro em Araçatuba, São Paulo. Sou apai
   <a href="https://github.com/gallelikaue">
     <img src="https://img.shields.io/badge/GitHub-gallelikaue-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/gallelikaue">
-    <img src="https://img.shields.io/badge/Instagram-@gallelikaue?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/galleli_">
+    <img src="https://img.shields.io/badge/Instagram-@galleli_?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@ Me chamo Kauê Galleli, tenho 21 anos e moro em Araçatuba, São Paulo. Sou apai
 -   🤖 Engenharia de IA & Agentes Autônomos
 -   📊 Business Intelligence & ROI Dashboards
 -   🎓 Mentoria
--   📈 Tráfego Pago (+R$25M gerados)
+-   📈 Tráfego Pago (+R$35M gerados)
 
 ---
 
